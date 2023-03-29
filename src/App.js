@@ -10,22 +10,22 @@ import Faq from './Components/Faq';
 function App() {
   return (
     <div className="w-full h-full">
-      <BrowserRouter>
+      <BrowserRouter basename="/arsy">
       <Navbar />
-        <Routes>
-          <Route path="/" element={
-            <Main/>
-          }>
-          </Route>
-          <Route path="/models" element={
-            <Models/>
-          }>
-          </Route>
-          <Route path="/faq" element={
-            <Faq/>
-          }>
-          </Route>
-        </Routes>
+      <Routes>
+        <Route path="/" element={
+          <Main/>
+        }>
+        </Route>
+        <Route path="/models" element={
+          <Models/>
+        }>
+        </Route>
+        <Route path="/faq" element={
+          <Faq/>
+        }>
+        </Route>
+      </Routes>
       </BrowserRouter>
     </div>
 
