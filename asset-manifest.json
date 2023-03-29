@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/arsy/static/css/main.b21b1337.css",
-    "main.js": "/arsy/static/js/main.33f89f96.js",
+    "main.js": "/arsy/static/js/main.19bdffc4.js",
     "static/js/787.3af44c29.chunk.js": "/arsy/static/js/787.3af44c29.chunk.js",
     "static/media/model.glb": "/arsy/static/media/model.c3684bd965511f121ab5.glb",
     "static/media/modeldsc2.usdz": "/arsy/static/media/modeldsc2.0fa059ab38e30f27f2fb.usdz",
@@ -9,11 +9,11 @@
     "index.html": "/arsy/index.html",
     "static/media/login.svg": "/arsy/static/media/login.02386d2ecb7643aa99a4e7efd1fecb82.svg",
     "main.b21b1337.css.map": "/arsy/static/css/main.b21b1337.css.map",
-    "main.33f89f96.js.map": "/arsy/static/js/main.33f89f96.js.map",
+    "main.19bdffc4.js.map": "/arsy/static/js/main.19bdffc4.js.map",
     "787.3af44c29.chunk.js.map": "/arsy/static/js/787.3af44c29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b21b1337.css",
-    "static/js/main.33f89f96.js"
+    "static/js/main.19bdffc4.js"
   ]
 }
