@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arsy/static/css/main.dee0c778.css",
-    "main.js": "/arsy/static/js/main.18c71183.js",
+    "main.css": "/arsy/static/css/main.ec18c859.css",
+    "main.js": "/arsy/static/js/main.4f9c302c.js",
     "static/js/787.3af44c29.chunk.js": "/arsy/static/js/787.3af44c29.chunk.js",
     "static/media/replicator_2.usdz": "/arsy/static/media/replicator_2.6f4c1001f38f065101b2.usdz",
     "static/media/Pump.glb": "/arsy/static/media/Pump.138dc56913f038561e1f.glb",
@@ -15,12 +15,12 @@
     "static/media/bg_mod.png": "/arsy/static/media/bg_mod.3130d9ca48516aa3da1e.png",
     "index.html": "/arsy/index.html",
     "static/media/login.svg": "/arsy/static/media/login.02386d2ecb7643aa99a4e7efd1fecb82.svg",
-    "main.dee0c778.css.map": "/arsy/static/css/main.dee0c778.css.map",
-    "main.18c71183.js.map": "/arsy/static/js/main.18c71183.js.map",
+    "main.ec18c859.css.map": "/arsy/static/css/main.ec18c859.css.map",
+    "main.4f9c302c.js.map": "/arsy/static/js/main.4f9c302c.js.map",
     "787.3af44c29.chunk.js.map": "/arsy/static/js/787.3af44c29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dee0c778.css",
-    "static/js/main.18c71183.js"
+    "static/css/main.ec18c859.css",
+    "static/js/main.4f9c302c.js"
   ]
 }
