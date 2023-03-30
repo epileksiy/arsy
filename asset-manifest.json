@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arsy/static/css/main.ec18c859.css",
-    "main.js": "/arsy/static/js/main.4f9c302c.js",
+    "main.css": "/arsy/static/css/main.5fc39801.css",
+    "main.js": "/arsy/static/js/main.37919d5f.js",
     "static/js/787.3af44c29.chunk.js": "/arsy/static/js/787.3af44c29.chunk.js",
     "static/media/replicator_2.usdz": "/arsy/static/media/replicator_2.6f4c1001f38f065101b2.usdz",
     "static/media/Pump.glb": "/arsy/static/media/Pump.138dc56913f038561e1f.glb",
@@ -11,16 +11,19 @@
     "static/media/replicator.glb": "/arsy/static/media/replicator.f468180b5a05d9dc7e3b.glb",
     "static/media/model.glb": "/arsy/static/media/model.c3684bd965511f121ab5.glb",
     "static/media/modeldsc2.usdz": "/arsy/static/media/modeldsc2.0fa059ab38e30f27f2fb.usdz",
+    "static/media/oilpump.png": "/arsy/static/media/oilpump.f7c057f5839ce770bd81.png",
+    "static/media/replicator.png": "/arsy/static/media/replicator.2407376183a6ad241c58.png",
+    "static/media/gaspipe.png": "/arsy/static/media/gaspipe.ed388e568e361171560b.png",
     "static/media/logo.svg": "/arsy/static/media/logo.9d95db95d49a85d02623281fcb108913.svg",
     "static/media/bg_mod.png": "/arsy/static/media/bg_mod.3130d9ca48516aa3da1e.png",
     "index.html": "/arsy/index.html",
     "static/media/login.svg": "/arsy/static/media/login.02386d2ecb7643aa99a4e7efd1fecb82.svg",
-    "main.ec18c859.css.map": "/arsy/static/css/main.ec18c859.css.map",
-    "main.4f9c302c.js.map": "/arsy/static/js/main.4f9c302c.js.map",
+    "main.5fc39801.css.map": "/arsy/static/css/main.5fc39801.css.map",
+    "main.37919d5f.js.map": "/arsy/static/js/main.37919d5f.js.map",
     "787.3af44c29.chunk.js.map": "/arsy/static/js/787.3af44c29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ec18c859.css",
-    "static/js/main.4f9c302c.js"
+    "static/css/main.5fc39801.css",
+    "static/js/main.37919d5f.js"
   ]
 }
