@@ -1,10 +1,13 @@
 {
   "files": {
     "main.css": "/arsy/static/css/main.dee0c778.css",
-    "main.js": "/arsy/static/js/main.98de7058.js",
+    "main.js": "/arsy/static/js/main.18c71183.js",
     "static/js/787.3af44c29.chunk.js": "/arsy/static/js/787.3af44c29.chunk.js",
+    "static/media/replicator_2.usdz": "/arsy/static/media/replicator_2.6f4c1001f38f065101b2.usdz",
     "static/media/Pump.glb": "/arsy/static/media/Pump.138dc56913f038561e1f.glb",
+    "static/media/Pump.usdz": "/arsy/static/media/Pump.ff5020edde5ade648010.usdz",
     "static/media/Gas_station_pipes.glb": "/arsy/static/media/Gas_station_pipes.4df80c7110b4f5eb3a59.glb",
+    "static/media/Gas_station_pipes.usdz": "/arsy/static/media/Gas_station_pipes.d34fc743a78b77fd5122.usdz",
     "static/media/replicator.glb": "/arsy/static/media/replicator.f468180b5a05d9dc7e3b.glb",
     "static/media/model.glb": "/arsy/static/media/model.c3684bd965511f121ab5.glb",
     "static/media/modeldsc2.usdz": "/arsy/static/media/modeldsc2.0fa059ab38e30f27f2fb.usdz",
@@ -13,11 +16,11 @@
     "index.html": "/arsy/index.html",
     "static/media/login.svg": "/arsy/static/media/login.02386d2ecb7643aa99a4e7efd1fecb82.svg",
     "main.dee0c778.css.map": "/arsy/static/css/main.dee0c778.css.map",
-    "main.98de7058.js.map": "/arsy/static/js/main.98de7058.js.map",
+    "main.18c71183.js.map": "/arsy/static/js/main.18c71183.js.map",
     "787.3af44c29.chunk.js.map": "/arsy/static/js/787.3af44c29.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dee0c778.css",
-    "static/js/main.98de7058.js"
+    "static/js/main.18c71183.js"
   ]
 }
