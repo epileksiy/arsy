@@ -56,4 +56,22 @@
 model-viewer {
   height: 100%;
   width: 100%;
-};
+}
+
+.modcard {
+  background-image: url('../public/bg_mod.png');
+}
+/* .modcard::after {
+  background-image: url('./gaspipe.png');
+  background-size: cover;
+} */
+
+.faq {
+  font-family: 'Saira', sans-serif;
+}
+
+
+.faq2 {
+  font-family: 'Roboto Mono', sans-serif;
+}
+
