@@ -21,6 +21,7 @@ import ModelObserver9 from './Components/ModelObserver9';
 import ModelObserver10 from './Components/ModelObserver10';
 
 import OnWork from './Components/onwork';
+import MainModel from './Components/mainModel';
 
 function App() {
   return (
@@ -58,6 +59,10 @@ function App() {
           </Route>
           <Route path="/modelobs4" element={
             <ModelObserver4/>
+          }>
+          </Route>
+          <Route path="/mainModel" element={
+            <MainModel/>
           }>
           </Route>
           <Route path="/modelobs5" element={

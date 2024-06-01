@@ -13,7 +13,7 @@ export default function ModelObserver6 (){
     // },1000);
     return(
         <div className="w-full h-screen flex flex-col nav">
-            <div className="h-5/6  w-full mt-10">
+            <div className="h-5/6  w-full mt-24">
                 <model-viewer
                     // className="model-viewer"
                     id="model-viewer2"
