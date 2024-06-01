@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/arsy/static/css/main.5fc39801.css",
-    "main.js": "/arsy/static/js/main.217fb2b1.js",
+    "main.css": "/arsy/static/css/main.1489c4b9.css",
+    "main.js": "/arsy/static/js/main.dfd157b4.js",
     "static/js/787.3af44c29.chunk.js": "/arsy/static/js/787.3af44c29.chunk.js",
     "static/media/Chalcopyrite.glb": "/arsy/static/media/Chalcopyrite.3b9205b5fcf5eac99c43.glb",
     "static/media/replicator_2.usdz": "/arsy/static/media/replicator_2.6f4c1001f38f065101b2.usdz",
@@ -11,6 +11,7 @@
     "static/media/Subsea.glb": "/arsy/static/media/Subsea.2c6ba0e581487f529a17.glb",
     "static/media/Subsea.usdz": "/arsy/static/media/Subsea.595f281f75137afc7c39.usdz",
     "static/media/Gas_station_pipes.glb": "/arsy/static/media/Gas_station_pipes.4df80c7110b4f5eb3a59.glb",
+    "static/media/final_compressed.glb": "/arsy/static/media/final_compressed.808349348c728453a356.glb",
     "static/media/Gas_station_pipes.usdz": "/arsy/static/media/Gas_station_pipes.d34fc743a78b77fd5122.usdz",
     "static/media/MudPUMP.glb": "/arsy/static/media/MudPUMP.a493379a3fd01da840a3.glb",
     "static/media/MudPUMP.usdz": "/arsy/static/media/MudPUMP.b21c0cbe74c6b2f93db9.usdz",
@@ -26,6 +27,7 @@
     "static/media/cha.png": "/arsy/static/media/cha.7b772a768a5b38d312be.png",
     "static/media/oilpump.png": "/arsy/static/media/oilpump.f7c057f5839ce770bd81.png",
     "static/media/replicator.png": "/arsy/static/media/replicator.2407376183a6ad241c58.png",
+    "static/media/mainmodel.png": "/arsy/static/media/mainmodel.9f55371b3b0b84e07fc8.png",
     "static/media/subsea.png": "/arsy/static/media/subsea.9979c739ae7cf51caba0.png",
     "static/media/gaspipe.png": "/arsy/static/media/gaspipe.ed388e568e361171560b.png",
     "static/media/drilling.png": "/arsy/static/media/drilling.05eaf990cdb4d43f27bd.png",
@@ -39,12 +41,12 @@
     "static/media/Car.usdz": "/arsy/static/media/Car.a067e486b20a5ea72ffe.usdz",
     "index.html": "/arsy/index.html",
     "static/media/login.svg": "/arsy/static/media/login.02386d2ecb7643aa99a4e7efd1fecb82.svg",
-    "main.5fc39801.css.map": "/arsy/static/css/main.5fc39801.css.map",
-    "main.217fb2b1.js.map": "/arsy/static/js/main.217fb2b1.js.map",
+    "main.1489c4b9.css.map": "/arsy/static/css/main.1489c4b9.css.map",
+    "main.dfd157b4.js.map": "/arsy/static/js/main.dfd157b4.js.map",
     "787.3af44c29.chunk.js.map": "/arsy/static/js/787.3af44c29.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5fc39801.css",
-    "static/js/main.217fb2b1.js"
+    "static/css/main.1489c4b9.css",
+    "static/js/main.dfd157b4.js"
   ]
 }
